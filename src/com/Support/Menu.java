@@ -10,9 +10,4 @@ public class Menu {
         System.out.println("3.  Get travel details/detailed recipt");
         System.out.println("4.  Exit");
     }
-	
-//	public static void main(String[] args) {
-//		Menu m1 = new Menu();
-//		m1.getMenu();
-//	}
 }
