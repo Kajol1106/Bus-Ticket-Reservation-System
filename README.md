@@ -36,18 +36,50 @@
 </br>
 ![Er diagram](https://github.com/Kajol1106/scarce-yam-6005/blob/main/Bus%20Ticket%20Reservation%20System/project%20details/ER%20diagram/ERdiagram.png?raw=true)
 
-## **Administrator Login** 
+
+## **Login**
+*First view of project*
+</br>
+![Login](https://github.com/Kajol1106/Bus-Ticket-Reservation-System/blob/main/Bus%20Ticket%20Reservation%20System/assets/1(Login).png?raw=true)
+
+## **Administrator Login And He/She can perform following operations** 
 *Admin can login by using username (Admin) and password (1234)*
 </br>
-![Admin login](https://github.com/Kajol1106/scarce-yam-6005/blob/main/Bus%20Ticket%20Reservation%20System/assets/Adminlogin.png?raw=true)
+![Admin login](https://github.com/Kajol1106/Bus-Ticket-Reservation-System/blob/main/Bus%20Ticket%20Reservation%20System/assets/2(AdminLogin).png?raw=true)
 
+### **Add Bus** 
+*Admin can add the bus*
+</br>
+![Add Bus](https://github.com/Kajol1106/scarce-yam-6005/blob/main/Bus%20Ticket%20Reservation%20System/assets/3(BusAdd).png?raw=true)
 
-## **Customer Login** 
+### **See Bus Status** 
+*Admin can see the status of bus*
+</br>
+![Add Bus](https://github.com/Kajol1106/scarce-yam-6005/blob/main/Bus%20Ticket%20Reservation%20System/assets/4(status).png?raw=true)
+
+### **View Booking** 
+*Admin can see/view the bus booking*
+</br>
+![Add Bus](https://github.com/Kajol1106/scarce-yam-6005/blob/main/Bus%20Ticket%20Reservation%20System/assets/5(viewBooking).png?raw=true)
+
+## **Customer Login And He/She can perform following operations** 
 *Customer can signup first if not registered earlier*
+</br>
+![Customer login](https://github.com/Kajol1106/scarce-yam-6005/blob/main/Bus%20Ticket%20Reservation%20System/assets/7(signup).png?raw=true)
 </br>
 *Customer can login with earlier provided username and password*
 </br>
-![Customer login](https://github.com/Kajol1106/scarce-yam-6005/blob/main/Bus%20Ticket%20Reservation%20System/assets/Customerlogin.png?raw=true)
+![Customer login](https://github.com/Kajol1106/scarce-yam-6005/blob/main/Bus%20Ticket%20Reservation%20System/assets/6(CustomerLogin).png?raw=true)
+
+### **Book Bus** 
+*Customer can book the bus*
+</br>
+![Add Bus](https://github.com/Kajol1106/scarce-yam-6005/blob/main/Bus%20Ticket%20Reservation%20System/assets/8(BookBus).png?raw=true)
+
+### **Ticket status and Cancel Ticket** 
+*Customer can check status of ticket and cancel ticket*
+</br>
+![Add Bus](https://github.com/Kajol1106/scarce-yam-6005/blob/main/Bus%20Ticket%20Reservation%20System/assets/9(TicketStatusAndCancelTicket).png?raw=true)
 
 ## **Back Functionality** 
 *User can go back to the previous option*
